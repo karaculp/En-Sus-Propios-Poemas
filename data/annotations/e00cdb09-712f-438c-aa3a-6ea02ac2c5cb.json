@@ -48,8 +48,12 @@
       ],
       "tags": [
         {
-          "category": "_uncategorized_",
-          "tag": "Question About School Race"
+          "tag": "Question About School Staff",
+          "category": "Interviewer Question"
+        },
+        {
+          "tag": "Question About Race",
+          "category": "Interviewer Question"
         }
       ],
       "uuid": "788534ca-656f-4eaa-8a6f-138c22fa444d"
