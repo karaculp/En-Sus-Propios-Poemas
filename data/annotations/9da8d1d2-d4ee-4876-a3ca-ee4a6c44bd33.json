@@ -127,16 +127,16 @@
       ],
       "tags": [
         {
-          "category": "_uncategorized_",
-          "tag": "Chirst the King"
-        },
-        {
           "category": "Schools and Education",
           "tag": "Elementary School Experiences"
         },
         {
           "tag": "Gender",
           "category": "Race, Gender, and Class"
+        },
+        {
+          "tag": "Christ the King",
+          "category": "Schools and Education"
         }
       ],
       "uuid": "ed806ca9-b83f-42b8-981e-2c0159609ac2"
