@@ -428,10 +428,6 @@
           "tag": "Migrant Labor"
         },
         {
-          "category": "_uncategorized_",
-          "tag": "Qustion About Education"
-        },
-        {
           "category": "Places of San Antonio",
           "tag": "St. Mary's Church"
         },
@@ -442,7 +438,7 @@
       ]
     },
     "created_at": "2026-05-06T23:13:48.673Z",
-    "updated_at": "2026-05-07T00:08:57.197Z",
+    "updated_at": "2026-05-07T00:09:00.602Z",
     "generate_pages_site": true
   },
   "annotations": {},
