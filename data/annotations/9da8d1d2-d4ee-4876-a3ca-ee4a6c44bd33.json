@@ -177,16 +177,16 @@
       ],
       "tags": [
         {
-          "category": "_uncategorized_",
-          "tag": "Chirst the King"
-        },
-        {
           "category": "Schools and Education",
           "tag": "Elementary School Experiences"
         },
         {
           "tag": "Language Erasure",
           "category": "Discrimination"
+        },
+        {
+          "tag": "Christ the King",
+          "category": "Schools and Education"
         }
       ],
       "uuid": "26605d55-f5d0-4b3e-82fa-ac7c9554c01f"
