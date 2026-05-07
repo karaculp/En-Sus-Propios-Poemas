@@ -1,0 +1,34 @@
+{
+  "audiovisual_files": {
+    "ae94eb3b-dc5e-4182-887b-0c37ddedc434": {
+      "label": "Experiences with Private School Education",
+      "is_offline": false,
+      "file_type": "Video",
+      "file_url": "https://crbb.tcu.edu/files/video_file/58cb2d446c69621061181800/Montejano_Diana20160729_3.mp4",
+      "duration": 415,
+      "caption_set": [],
+      "set_sort": []
+    }
+  },
+  "auto_generate_web_page": true,
+  "description": [
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "In this clip, Montejano discusses her experiences attending a private Catholic elementary school called Christ the King."
+        }
+      ]
+    }
+  ],
+  "citation": "\t\"Experiences with Private School Education,\" from Diana Montejano Oral History Interview with Steve Arionus and Vinicio Sinta,  June 29, 2016, San Antonio, Civil Rights in Black and Brown Interview Database, https://crbb.tcu.edu/clips/4211/experiences-with-private-school-education, accessed May 06, 2026",
+  "label": "Experiences with Private School Education",
+  "av_file_order": [
+    "ae94eb3b-dc5e-4182-887b-0c37ddedc434"
+  ],
+  "rights_statement": "https://rightsstatements.org/vocab/InC-EDU/1.0/",
+  "created_at": "2026-05-07T00:00:44.121Z",
+  "created_by": "karaculp",
+  "updated_at": "2026-05-07T00:00:44.121Z",
+  "updated_by": "karaculp"
+}
