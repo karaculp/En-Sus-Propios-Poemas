@@ -227,16 +227,16 @@
       ],
       "tags": [
         {
-          "category": "_uncategorized_",
-          "tag": "Chirst the King"
-        },
-        {
           "category": "Schools and Education",
           "tag": "Elementary School Experiences"
         },
         {
           "tag": "Family Life",
           "category": "Personal Life"
+        },
+        {
+          "tag": "Christ the King",
+          "category": "Schools and Education"
         }
       ],
       "uuid": "71b74157-582b-4752-bac6-aa60995a9a9c"
