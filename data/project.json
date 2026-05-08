@@ -88,10 +88,6 @@
           "category": "Personal Life"
         },
         {
-          "tag": "Streets of San Anotnio",
-          "category": "Places of San Antonio"
-        },
-        {
           "tag": "Places of San Antonio",
           "category": "Places of San Antonio"
         },
@@ -438,7 +434,7 @@
       ]
     },
     "created_at": "2026-05-06T23:13:48.673Z",
-    "updated_at": "2026-05-08T20:09:53.019Z",
+    "updated_at": "2026-05-08T20:10:52.015Z",
     "generate_pages_site": true
   },
   "annotations": {},
