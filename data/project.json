@@ -380,10 +380,6 @@
           "tag": "Family Life"
         },
         {
-          "category": "Context",
-          "tag": "Politcal Context"
-        },
-        {
           "category": "Discrimination",
           "tag": "Segregation"
         },
@@ -438,7 +434,7 @@
       ]
     },
     "created_at": "2026-05-06T23:13:48.673Z",
-    "updated_at": "2026-05-08T20:50:27.104Z",
+    "updated_at": "2026-05-08T20:50:38.184Z",
     "generate_pages_site": true
   },
   "annotations": {},
