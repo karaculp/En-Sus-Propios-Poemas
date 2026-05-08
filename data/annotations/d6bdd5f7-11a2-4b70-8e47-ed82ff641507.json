@@ -1,5 +1,255 @@
 {
-  "annotations": [],
+  "annotations": [
+    {
+      "start_time": 0,
+      "end_time": 136,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "And I also ended up in the- God this sounds like a confession. I also ended up a alot in the office of the dean of student affairs. The Dean of Students. And Sister Jane Elizabeth Gonzales, I think she came to hate me. Because I, first: They had rules. At first, you could not wear sleeveless dresses. You had to wear hose. You had to wear dresses. Here I come in horaches, chanklas, sleeveless dress. At least I was wearing a dress, you know, because I did not grow up wearing dresses. I grew up with boys. At least I wore dresses. I was like, come on man, those are antiquated, I would tell her \"Those are out. And I am walking down 26th street in heals and hose because you know what every other vato is going to do to me? They are going to stop and ask me. And this way they way they won't bother me.\" They did, but not really, you know. AAnd so, she was like all old school. “These are the rules. These are the rules.” Yiddy, yiddy, yiddy, you know. The following semester, they let the guys come in. See, up until then, it was all girls. They let the guys come in and that is when everything really started changing because here comes these vatos from the barrio, you know. Yogi, and Hiloy, and here they come, you know? Well, it did not take us long to bond together because we are all from the barrio. Roger, gosh all these guys, man, they came in and things started to change. Of course it was a political charged climate during that time, you know."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Gender",
+          "category": "Race, Gender, and Class"
+        },
+        {
+          "category": "Race, Gender, and Class",
+          "tag": "Class Dynamics"
+        },
+        {
+          "tag": "Classmates",
+          "category": "People"
+        },
+        {
+          "category": "Schools and Education",
+          "tag": "Our Lady of the Lake"
+        }
+      ],
+      "uuid": "e4c7e7eb-035a-4c4e-a9b6-3eb4ff021fcd"
+    },
+    {
+      "start_time": 136,
+      "end_time": 139,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Well, tell me bout that."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Question About Education",
+          "category": "Interviewer Question"
+        }
+      ],
+      "uuid": "f3931319-93b5-4993-9bff-528ac78c8181"
+    },
+    {
+      "start_time": 139,
+      "end_time": 197,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Well, and Rosie Castro was there. Rosie Castro went to the same high school I went to. She was a senior and I was a freshman. We had, how did we? We had initiation at that time. We had the “slave days” and they would auction the freshman off to the seniors, and then we had to do. That was their fundraiser. We had to do whatever the seniors did. Well, Rosie bought me! I thought she was a kind slave owner (laughter). She was pretty kind because she did not make me do any of the stuff that everybody else, they were getting dressed up, you know baby doll clothes, being paraded downtown with teteras and all this stuff. She didn't make me do any of that."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Classmates",
+          "category": "People"
+        },
+        {
+          "tag": "Little Flower High School",
+          "category": "Schools and Education"
+        },
+        {
+          "tag": "Racism",
+          "category": "Discrimination"
+        },
+        {
+          "tag": "Rosie Castro",
+          "category": "People"
+        }
+      ],
+      "uuid": "5a1bbeda-ce37-4fa9-8b56-c36e28d4c71e"
+    },
+    {
+      "start_time": 197,
+      "end_time": 201,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "The community welcomed this?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Question About Discrimination",
+          "category": "Interviewer Question"
+        }
+      ],
+      "uuid": "3d2cc2ca-73df-446e-8a5c-5993a69cedc7"
+    },
+    {
+      "start_time": 201,
+      "end_time": 246,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Yeah... Well, at that time, yeah it was okay. The freshmen weren't too happy about it. I was looking forward to- \"When I become a senior, wai till I, blah, blah, blah.\" But, by that time they had gotten rid of the practice. I did not- they did not auction off freshman. They did not initiate freshmen my senior year. It just didn't happen. Anyway, Rosie was at Our Lady of the Lake, and she was in the Young Democrats. She recruited me to participate in the Young Democrats. But let me back up"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Classmates",
+          "category": "People"
+        },
+        {
+          "tag": "Little Flower High School",
+          "category": "Schools and Education"
+        },
+        {
+          "tag": "Racism",
+          "category": "Discrimination"
+        },
+        {
+          "tag": "Rosie Castro",
+          "category": "People"
+        },
+        {
+          "tag": "The Young Democrats",
+          "category": "Political Organizations"
+        }
+      ],
+      "uuid": "6fa34f3f-d76b-4d0b-9dd7-4d045dbb6826"
+    },
+    {
+      "start_time": 246,
+      "end_time": 378,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Before I graduated from high school, 1968. HemisFair 1968. April. My brother, David, and his friends came down from UT in Austin and some of the people from San Antonio. They were protesting because they raised the taxes. And they razed the Victoria Courts, which was another housing area. They were protesting, bueno. My mother, bless her heart, even though she didn't really agree with what they were doing, protesting and all that. She makes this big old lunch for all of them. Tacos! And Kool-aid. And she puts me on a bus. I did not want to go! And she said something, I have to. You know, say tha tI dint; wanna go, but my mother, just. You couldn't say no to my mother. I do not care what, but you could not say no. So, she put me on the bus. I went downtown with a big bolsa with tacos and drinks. “And make sure you bring”- they were Tupperware glasses with the lids- “And make sure you collect the lids and Tupperware”- and all this stuff. I said, “Okay, Okay.” So, I am distributing these things, you know, and one of my brother’s compeneros sat down next to me and said “hold my sign while I eat.” So, I am holding the sign protesting the taxes, Tapada, and who’s coming down the entrance? If it isn’t the principal and the nuns from Little Flower High School. Yo estoy toda pendjita. “Hi, Sister (waving), look at me.” And, I am holding the sign. They're filming, the TV cameras, or what ever they are filming this stuff. Next thing you know, Monday I was in the principal’s office."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Activism",
+          "category": "Activism"
+        },
+        {
+          "tag": "Family Life",
+          "category": "Personal Life"
+        },
+        {
+          "tag": "Places of San Antonio",
+          "category": "Places of San Antonio"
+        },
+        {
+          "tag": "Protesting",
+          "category": "Activism"
+        }
+      ],
+      "uuid": "dd14ce67-d8ac-4e31-910f-6a659a4ddd2e"
+    },
+    {
+      "start_time": 250,
+      "end_time": 278,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "HemisFair '68 was the name for 1968 World's Fair, which was held in San Antonio, Texas. The fair required the construction of a number of facilities, including a park, convention center, and the now iconic \"Tower of the Americas.\" The fair's theme, \"The Confluence of The Americas,\" was meant to represent the close history an emerging relationship of the nations and cultures of North and South America. However, the area which was chosen for the fair's facilities to be built was heavily Mexican American. Known as \"Barrio De Valerio,\" it was condemmed by the city in order to claim the land through eminent domain. Many Mexican American's were displaced as their homes and businesses were destroyed."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Political Context",
+          "category": "Context"
+        }
+      ],
+      "uuid": "7b5e9bc8-ba47-44f7-a336-664b9532d4e1"
+    },
+    {
+      "start_time": 153,
+      "end_time": 197,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "\"Senior Slave Auctions,\" or \"Slave Day,\" were a form of fundraising utilized in U.S. high schools, where either high school seniors (12th graders) would be auctioned off to freshman to do their bidding for a designated period of time, or the inverse as in this case, with freshman actioned off to seniors. Though it started to die off in the 1960s after it began to be condemmed as a recist practice that was intentionally reminicent of Chattel Slavery of African Americas. Despite this, some schools in other parts of the country continued the practice until fairly recently: Most notably John F. Kennedy High School in Sacremento, California made national news in Feburary, 2017 when some students began protesting the practice, while others wanted it to continue."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Cultural Context",
+          "category": "Context"
+        },
+        {
+          "tag": "Racism",
+          "category": "Discrimination"
+        }
+      ],
+      "uuid": "10de473a-d709-4743-ad8c-12d2bbf9cb12"
+    },
+    {
+      "start_time": 140,
+      "end_time": 197,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Rosie Castro is a civil rights activist and educator in San Antonio, Texas. She was involved with the Young Democrats and Catholic Youth Association during her time at Our Lady of the Lake University. She also volunteered for President Lyndon B. Johnson's campaign, the Mexican American Unity Council (MAUC) and La Raza Unida Party. Castro worked at Palo Alto college from 2008 until 2013 as the intrem Dean of Student Affairs, until she retired. She is the mother of twins Julían Castro, a former mayor of San Antonio from 2009 to 2014 member of Barack Obama's Cabinet from 2014 to 2017, and Juaquin Castro, a congressman in the U.S. House of Representatives of Texas's 20th congressial district from 2013 to the present."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Rosie Castro",
+          "category": "People"
+        },
+        {
+          "category": "Context",
+          "tag": "Politcal Context"
+        }
+      ],
+      "uuid": "317910be-c954-4923-83b6-a84acc13f0af"
+    }
+  ],
   "set": "Default",
   "event_id": "e0c4e49a-3cfb-4092-8bd1-5954db1495e5",
   "source_id": "4129b291-65c4-4cb7-9229-345c5e40d07b"
