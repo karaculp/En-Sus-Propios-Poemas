@@ -478,12 +478,12 @@
       ],
       "tags": [
         {
-          "category": "_uncategorized_",
-          "tag": "Poltical Context"
-        },
-        {
           "tag": "La Raza Unida",
           "category": "Political Organizations"
+        },
+        {
+          "tag": "Political Context",
+          "category": "Context"
         }
       ],
       "uuid": "386f4491-941a-4c0e-b439-c6a9fa6fc9e6"
