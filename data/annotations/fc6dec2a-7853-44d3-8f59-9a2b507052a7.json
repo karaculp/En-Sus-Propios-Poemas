@@ -1,5 +1,147 @@
 {
-  "annotations": [],
+  "annotations": [
+    {
+      "start_time": 0,
+      "end_time": 204,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "We went in. We finally got to Dallas and I think that we were, you know, it was like every place we went was Blacks and Mexicans you know, together! We would walk in to these all white restaurants and people would stop eating and look at you like “what are you doing here?” And his is honest truth because we were delegate of a committee, and Matry at that time, Marty Castio, Margie- Margret, they called her Marty. Anyway, she, we were going to I guess a regional meeting or something. I don’t know, in Livingston, Texas, which was up in East Texas. But, on the way we stopped and picked up the delegates from Texas A&M, which happened to be brothers. They were “bros,” you know. So you got three Mexican girls, with three black brothers, in a station wagon going to Livingston, Texas. We stopped in Palestine, to eat, we thought! We're young, we're naïve. I'm naïve! We walked in there and everybody just- you could hear a pin drop. And we sat down, nobody sat us down, but we sat down, adn we didn't even get a glass of water. We did't get- we didn't get waited on. And one of the guys, we had just met 'em, we didn't even know who they were. One of the guys says, “I think we need to leave.” And so, I was like, “But I'm hungry!” (laughter) You, know. I'm hungry! But “I think we need to leave.” So, we left. And we actually got escorted out of town. There was a pick-up following us. It was something like you see in the movies. But there was a pick-up that escorted us out of town- followed us until we crossed the line. And we got to Livingston, Texas and I remember where we were staying and we were having the meeting. I remember picking up the phone book and looking up \"how many Mexicans do they have in the phone book?\" And so I'm going down common names like García, Sanchez, Rodriguez- they had one Rodriguez. No Martinez, no García, no Sanchez. I'm like- just one Rodriguez and I'm like Wow! I do not know who picked that town to have that meeting. I do not even remember what we resolved or what we did- I don't remember that. But I do remember the ride, you know, and the looks we got. And you know... It was just like shit- something bad is gonna happen. That was my experience with the Young Democrats. Because after that it was La Raza Unida! Vamanos! "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "The Young Democrats",
+          "category": "Political Organizations"
+        },
+        {
+          "tag": "Discrimination",
+          "category": "Discrimination"
+        },
+        {
+          "tag": "Racism",
+          "category": "Discrimination"
+        }
+      ],
+      "uuid": "42b07b61-3393-448f-849e-d0e5952cd81b"
+    },
+    {
+      "start_time": 204,
+      "end_time": 228,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Before we get to that, can we talk sort of about this experience? Talk about a young woman, young Mexicana going to East Texas. You come from San Antonio, a city that is not short on racism at the time, but the west side is predominantly Mexican American. It must have been like a big leap in terms of- like a cultural shock."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Question About Racism",
+          "category": "Interviewer Question"
+        }
+      ],
+      "uuid": "f2fc462d-63ba-45d8-b1b3-82f3e57ecb99"
+    },
+    {
+      "start_time": 228,
+      "end_time": 384,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "It was a cultural shock. Because, and I tell my students this now. You know it's funny, when we're growing up we're in this little world where everybody is the same. So I said it's like, you didn't know you were poor because everybody was poor. And we were happy! You know, I said \"this is the thing, is that we were happy.\" How did six people grow up in a small, two-bedroom home with one bathroom, one small kitchen? One- you know, no TV, or black and white TV, and you were happy, you know. And then your world starts expanding. And you start meeting people from you know different races and different viewpoints and all the sudden it’s- it's- it's big. That discrimination existed, yeah, we knew that. We heard the stories, like my father, we heard the stories about my father not being able to buy a house across Culebra Street because of discrimination. That’s when the GI Forum was established, the one with Hector Garcia. Yeah. We knew that. So we know that when we were little and I didn't know it was because of discrimination. You know my father- our idea of vacation was going to New Braunfels. You know? And we were excited 'cause we were kids! But then they wouldn't sell hamburgers to my father. You know, it's a German town. You know, He was in the wrong side of town- they told him “you are on the wrong side of town.” My father got so angry. You know and I'll never forget that because our (snaps fingers) outing just came to an abrupt end and we were coming back. And I remember I was crying. Did we know about that at that time? No of course, it doesn't register. Later on when you start remembering this things it's just kind of like wow! You know? So, was I aware of these things- not when I went to Livingston, Texas. I just assumed that everything would be, its the Young Democrats, they're progressive, you know, da da da. I just assumed that. You know? And that was- that was an eye opener. I do not remember too much after that because I don't think I was very active with them after that experience."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "The Young Democrats",
+          "category": "Political Organizations"
+        },
+        {
+          "tag": "Discrimination",
+          "category": "Discrimination"
+        },
+        {
+          "tag": "Racism",
+          "category": "Discrimination"
+        },
+        {
+          "tag": "Family Life",
+          "category": "Personal Life"
+        },
+        {
+          "tag": "Teaching",
+          "category": "Career"
+        }
+      ],
+      "uuid": "954d9b93-212a-4b22-9fe0-df45ff99be9c"
+    },
+    {
+      "start_time": 384,
+      "end_time": 405,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Because then La Raza Unida started organizing and taking off. And I was- I was exposed to the Brown Berets and the 16 de Sieptembre and all these things that were coming up. And whoa, man! (coughs) I went full steam."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "La Raza Unida",
+          "category": "Political Organizations"
+        },
+        {
+          "tag": "The Brown Berets",
+          "category": "Political Organizations"
+        }
+      ],
+      "uuid": "a7201b3e-3cce-4c07-8cd4-c5187c3fa69f"
+    },
+    {
+      "start_time": 75,
+      "end_time": 195,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "At this time, Palestine, Texas may have been a \"Sundown Town,\" or at least have followed similar practices. A \"Sundown Town\" was a town that had unoffical rules in place that people of color (mostly Black people, though often Mexicans, Chinese, and other minorities as well) were not allowed to be in a town after the sun set. Though the may be allowed to work in the town, usually as domestic or agricultural laborers, they were not allowed to live anywhere within city limits. If they tried to, they would be faced with amounts of extreme violence, including their homes being burned down, or even lynchings. They were also ususally unable to frequent any businesses in the town, including restraunts as described by Montejano here. If people of color from out of town attempted to go to a business, they would often be threated, escorted out of town by another vehicle as this group was, or both. Sundown towns are often not in the historical records as such, as the rules they had were unoffical. Instead, we must look at oral histories and records which show unusually low populations of people of color within city limits compared to surrounding areas, newspapers which recorded acts of violence, along with other data that allows historians to make this conclusion. East Texas had the highest amount of Sundown towns of any part of the state, and some of them still exist today."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Cultural Context",
+          "category": "Context"
+        },
+        {
+          "tag": "Discrimination",
+          "category": "Discrimination"
+        },
+        {
+          "tag": "Racism",
+          "category": "Discrimination"
+        }
+      ],
+      "uuid": "d789be9e-2e53-4a72-809e-39c9cf5842e2"
+    }
+  ],
   "set": "Default",
   "event_id": "ef531ded-a044-476f-8df8-a9894b0ebeba",
   "source_id": "7b925a50-f247-4046-ab0f-f57337948b7d"
