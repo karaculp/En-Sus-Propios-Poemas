@@ -428,10 +428,6 @@
           "tag": "Education"
         },
         {
-          "category": "_uncategorized_",
-          "tag": "Question About Poltical Organizations"
-        },
-        {
           "category": "Places of San Antonio",
           "tag": "Guadalupe Community Center"
         },
@@ -442,7 +438,7 @@
       ]
     },
     "created_at": "2026-05-06T23:13:48.673Z",
-    "updated_at": "2026-05-09T19:48:39.312Z",
+    "updated_at": "2026-05-09T19:48:59.426Z",
     "generate_pages_site": true
   },
   "annotations": {},
