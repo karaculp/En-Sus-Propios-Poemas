@@ -230,12 +230,12 @@
       ],
       "tags": [
         {
-          "category": "_uncategorized_",
-          "tag": "Poltical Context"
-        },
-        {
           "tag": "MAUC",
           "category": "Political Organizations"
+        },
+        {
+          "tag": "Political Context",
+          "category": "Context"
         }
       ],
       "uuid": "2b79363f-4f7a-445f-9f4c-4b9d05304576"
