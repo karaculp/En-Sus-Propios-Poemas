@@ -280,12 +280,12 @@
       ],
       "tags": [
         {
-          "category": "_uncategorized_",
-          "tag": "Poltical Context"
-        },
-        {
           "tag": "The Brown Berets",
           "category": "Political Organizations"
+        },
+        {
+          "tag": "Political Context",
+          "category": "Context"
         }
       ],
       "uuid": "7fb4a0b2-668d-4f15-afae-48542d57e858"
