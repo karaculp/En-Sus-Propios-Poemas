@@ -1,0 +1,34 @@
+{
+  "audiovisual_files": {
+    "7b925a50-f247-4046-ab0f-f57337948b7d": {
+      "label": "East Texas, Young Democrats, and Discrimination",
+      "is_offline": false,
+      "file_type": "Video",
+      "file_url": "https://crbb.tcu.edu/files/video_file/58cd6e426c69621061301800/Montejano_Diana20160729_9.mp4",
+      "duration": 404,
+      "caption_set": [],
+      "set_sort": []
+    }
+  },
+  "auto_generate_web_page": true,
+  "description": [
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "In this clip, Montejano discusses her involvement with the the Young Democrats, a college student organization, and the discrimination the group faced while on a trip for a regional meeting in East Texas."
+        }
+      ]
+    }
+  ],
+  "citation": "\"East Texas, Young Democrats, and Discrimination,\" from Diana Montejano Oral History Interview with Steve Arionus and Vinicio Sinta,  June 29, 2016, San Antonio, Civil Rights in Black and Brown Interview Database, https://crbb.tcu.edu/clips/4217/east-texas-young-democrats-and-discrimination, accessed May 09, 2026.",
+  "label": "9. East Texas, Young Democrats, and Discrimination",
+  "av_file_order": [
+    "7b925a50-f247-4046-ab0f-f57337948b7d"
+  ],
+  "rights_statement": "https://rightsstatements.org/vocab/InC-EDU/1.0/",
+  "created_at": "2026-05-09T20:04:51.915Z",
+  "created_by": "karaculp",
+  "updated_at": "2026-05-09T20:04:51.915Z",
+  "updated_by": "karaculp"
+}
