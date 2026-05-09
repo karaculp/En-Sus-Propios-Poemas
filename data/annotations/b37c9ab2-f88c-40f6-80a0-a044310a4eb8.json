@@ -48,12 +48,12 @@
           "category": "Activism"
         },
         {
-          "category": "_uncategorized_",
-          "tag": "Educational Activism"
-        },
-        {
           "tag": "José Ángel Gutiérrez",
           "category": "People"
+        },
+        {
+          "tag": "Education Activism",
+          "category": "Activism"
         }
       ],
       "uuid": "9e1c49f1-f4e3-4455-a66f-de32e74d325b"
