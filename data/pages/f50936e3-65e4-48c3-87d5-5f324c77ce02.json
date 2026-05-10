@@ -168,8 +168,16 @@
     },
     {
       "type": "image",
-      "url": "https://digital.utsa.edu/digital/api/singleitem/image/p16018coll12/36/default.jpg",
+      "url": "https://archive.org/download/screenshot-2026-04-11-at-9.52.14-pm/Screenshot%202026-04-11%20at%209.52.14%E2%80%AFPM.png",
       "caption": "“HOLC San Antonio City Survey Report 1 Exhibit A: Grades of Security.” A hand colored \"residential security map\" created to indicate levels of security for real estate investment in San Antonio neighborhoods. Map courtesy of the University of Texas at San Antonio Libraries Special Collections.",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
       "children": [
         {
           "text": ""
@@ -202,15 +210,21 @@
     },
     {
       "type": "image",
-      "url": "https://digital.utsa.edu/digital/api/singleitem/image/p16018coll12/78/default.jpg",
+      "url": "https://archive.org/download/screenshot-2026-04-11-at-10.09.44-pm/Screenshot%202026-04-11%20at%2010.09.44%E2%80%AFPM.png",
       "caption": "“HOLC San Antonio City Survey Report 1 Exhibit B: Racial Concentrations.” Hand colored map showing racial concentrations in San Antonio neighborhoods. Color codes are split into 3 groups: \"Negro,\" \"Mexican,\" and \"White.\" Map courtesy of the University of Texas at San Antonio Libraries Special Collections.",
       "children": [
         {
           "text": ""
         }
-      ],
-      "scale": 100,
-      "align": "center"
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
     },
     {
       "type": "paragraph",
@@ -755,6 +769,6 @@
   "slug": "part-i-family-and-early-life-on-the-westside",
   "created_at": "2026-05-10T18:19:17.365Z",
   "created_by": "karaculp",
-  "updated_at": "2026-05-10T18:55:18.398Z",
+  "updated_at": "2026-05-10T19:35:50.816Z",
   "updated_by": "karaculp"
 }
