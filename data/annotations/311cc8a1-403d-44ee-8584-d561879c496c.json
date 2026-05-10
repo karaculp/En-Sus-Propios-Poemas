@@ -140,12 +140,12 @@
           "category": "Activism"
         },
         {
-          "tag": "Walter W McAllister",
-          "category": "People"
-        },
-        {
           "tag": "Police Conflict",
           "category": "Local Conflict"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Walter W. McAllister"
         }
       ],
       "uuid": "2469ddfc-9a7a-4a35-8cf7-bae1c4cabd6d"
