@@ -1,0 +1,34 @@
+{
+  "audiovisual_files": {
+    "97dfa2ba-d313-422a-8c82-8c6d4564e21c": {
+      "label": "Final Remarks",
+      "is_offline": false,
+      "file_type": "Video",
+      "file_url": "https://crbb.tcu.edu/files/video_file/58cd7a646c69621061461800/Montejano_Diana20160729_14.mp4",
+      "duration": 334,
+      "caption_set": [],
+      "set_sort": []
+    }
+  },
+  "auto_generate_web_page": true,
+  "description": [
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "In this clip, Montejano discusses the Vietnam War's affect on the Mexican American population, her career at the San Antonio Express News, and her return education at the University of Incarnate Word to complete her Bachelor's and the University of Texas at El Paso to earn her Masters of Fine Arts in Creative Writing, as well as her later teaching career at Palo Alto College."
+        }
+      ]
+    }
+  ],
+  "citation": "\"Final Remarks,\" from Diana Montejano Oral History Interview with Steve Arionus and Vinicio Sinta,  June 29, 2016, San Antonio, Civil Rights in Black and Brown Interview Database, https://crbb.tcu.edu/clips/4222/final-remarks-6, accessed May 10, 2026.",
+  "label": "14. Final Remarks",
+  "av_file_order": [
+    "97dfa2ba-d313-422a-8c82-8c6d4564e21c"
+  ],
+  "rights_statement": "https://rightsstatements.org/vocab/InC-EDU/1.0/",
+  "created_at": "2026-05-10T16:58:58.253Z",
+  "created_by": "karaculp",
+  "updated_at": "2026-05-10T16:58:58.253Z",
+  "updated_by": "karaculp"
+}
