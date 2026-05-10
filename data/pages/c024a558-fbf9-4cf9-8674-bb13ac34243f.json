@@ -194,7 +194,36 @@
               "type": "paragraph",
               "children": [
                 {
-                  "text": "¿Cuál Hombre O Mujer?"
+                  "text": ""
+                }
+              ],
+              "align": "center"
+            },
+            {
+              "type": "paragraph",
+              "align": "center",
+              "children": [
+                {
+                  "text": ""
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "align": "center",
+              "children": [
+                {
+                  "text": "¿Cuál Hombre O Mujer?",
+                  "textSize": "heading-three"
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "DIANA L. MONTEJANO",
+                  "textSize": "heading-four"
                 }
               ],
               "align": "center"
@@ -203,19 +232,21 @@
               "type": "paragraph",
               "children": [
                 {
-                  "text": "DIANA L. MONTEJANO"
+                  "text": "Third Place Spanish",
+                  "textSize": "heading-four"
                 }
               ],
               "align": "center"
             },
             {
               "type": "paragraph",
+              "align": "center",
               "children": [
                 {
-                  "text": "Third Place Spanish"
+                  "textSize": "heading-four",
+                  "text": ""
                 }
-              ],
-              "align": "center"
+              ]
             },
             {
               "type": "paragraph",
@@ -329,16 +360,7 @@
               "type": "paragraph",
               "children": [
                 {
-                  "text": "Los sentimientos de un hombre"
-                }
-              ],
-              "align": "center"
-            },
-            {
-              "type": "paragraph",
-              "children": [
-                {
-                  "text": "\n\nO una mujer."
+                  "text": "Los sentimientos de un hombre\nO una mujer."
                 }
               ],
               "align": "center"
@@ -372,6 +394,6 @@
   "slug": "en-sus-propios-poemas-the-life-and-legacy-of",
   "created_at": "2026-05-10T17:25:24.776Z",
   "created_by": "karaculp",
-  "updated_at": "2026-05-10T17:37:46.358Z",
+  "updated_at": "2026-05-10T17:42:16.585Z",
   "updated_by": "karaculp"
 }
