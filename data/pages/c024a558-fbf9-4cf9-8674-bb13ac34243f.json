@@ -1,0 +1,377 @@
+{
+  "content": [
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "grid",
+      "layout": [
+        4,
+        2
+      ],
+      "children": [
+        {
+          "type": "column",
+          "children": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "Introduction",
+                  "textSize": "heading-one"
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": ""
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "This project explores the life and legacy of Diana Montejano, a poet, civil rights activist, and educator who lived in San Antonio, Texas. She was deeply connected to the city throughout her life. She attended schools there, protested there, and worked there. The city shaped her and she helped shape it in turn."
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": ""
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "Montejano was a teenager during the Chicano Movement, a political movement where Mexican Americans fought for their civil rights. Chicanos (another name for Mexican Americans) had long been mistreated across the country. They experienced housing discrimination, school segregation, and limited opportunities for their futures that were built into the foundation of the city. Poverty was common and difficult to escape. Though the Chicano Movement helped make great strides for Mexican Americans, it also tended to obscure women and the contributions they made."
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": ""
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "En Sus Propios Poemas is a project that explores the life of Diana Montejano and how it shaped her work. It seeks to contribute to the growing scholarship of Chicana literature which is continuously bringing the stories of more women to light. "
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "\nThis project primarily relies on the Oral History of Diana Montejano conducted by Steve Arionus and Vinicio Sinto in 2016 as part of the Civil Rights in Black and Brown project. It analyzes her life story and places it within historical context. In addition, Montejano wrote dozens of beautiful poems and short stories throughout her life. Many of them are presented here. Others are scattered across different libraries and archives. Few have ever been digitized, and I am currently working on their recovery. I have immersed the poems adjacent to sections in which she discusses her life in the oral history clips, which you can explore more easily through the tag system. I invite you to explore her life and her work through the following pages. Please, enjoy."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "column",
+          "children": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": ""
+                }
+              ]
+            },
+            {
+              "type": "image",
+              "url": "https://archive.org/download/761444449.039903/761444449.039903.jpg",
+              "caption": "Diana Montejano Graduation Portrait, University of Texas at El Paso, 1997",
+              "children": [
+                {
+                  "text": ""
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "Fig. 1: \"Diana Montejano Graduation Portrait.\" Photo of Diana Montejano for her 1997 graduation from the University of Texas at El Paso for her Masters of Fine Arts in Creative Writing. Photo Courtesy of David Montejano.",
+                  "textSize": "small"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "grid",
+      "layout": [
+        3,
+        3
+      ],
+      "children": [
+        {
+          "type": "column",
+          "children": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": ""
+                }
+              ]
+            },
+            {
+              "uuid": "fb90ba4f-d3ac-41d1-864f-5e3d94b024f9",
+              "includes": [
+                "label",
+                "description"
+              ],
+              "start": 270,
+              "end": 334,
+              "file": "97dfa2ba-d313-422a-8c82-8c6d4564e21c",
+              "type": "event",
+              "children": [
+                {
+                  "text": ""
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": ""
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": ""
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "column",
+          "children": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "¿Cuál Hombre O Mujer?"
+                }
+              ],
+              "align": "center"
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "DIANA L. MONTEJANO"
+                }
+              ],
+              "align": "center"
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "Third Place Spanish"
+                }
+              ],
+              "align": "center"
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "¿Cuál hombre o mujer puede vivir"
+                }
+              ],
+              "align": "center"
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "Sin la poesía? ¿Sin la música?"
+                }
+              ],
+              "align": "center"
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "¿Sin el arte?"
+                }
+              ],
+              "align": "center"
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "Qué triste sería este mundo, que pobre,"
+                }
+              ],
+              "align": "center"
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "Que inutil existencia viajar por las"
+                }
+              ],
+              "align": "center"
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "Avenidas de la vida pasajera"
+                }
+              ],
+              "align": "center"
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "Sin ninguna sonrisa o lágrima,"
+                }
+              ],
+              "align": "center"
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "Sin canción,"
+                }
+              ],
+              "align": "center"
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "Sin color,"
+                }
+              ],
+              "align": "center"
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "Sin poesía,"
+                }
+              ],
+              "align": "center"
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "Reflejando,"
+                }
+              ],
+              "align": "center"
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "Iluminando,"
+                }
+              ],
+              "align": "center"
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "Los sentimientos de un hombre"
+                }
+              ],
+              "align": "center"
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "\n\nO una mujer."
+                }
+              ],
+              "align": "center"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    }
+  ],
+  "title": "En Sus Propios Poemas: The Life and Legacy of Diana Montejano",
+  "autogenerate": {
+    "enabled": false,
+    "type": "custom"
+  },
+  "slug": "en-sus-propios-poemas-the-life-and-legacy-of",
+  "created_at": "2026-05-10T17:25:24.776Z",
+  "created_by": "karaculp",
+  "updated_at": "2026-05-10T17:25:24.776Z",
+  "updated_by": "karaculp"
+}
