@@ -360,10 +360,19 @@
               "type": "paragraph",
               "children": [
                 {
-                  "text": "Los sentimientos de un hombre\nO una mujer."
+                  "text": "Los sentimientos de un hombre"
                 }
               ],
               "align": "center"
+            },
+            {
+              "type": "paragraph",
+              "align": "center",
+              "children": [
+                {
+                  "text": "O una mujer."
+                }
+              ]
             }
           ]
         }
@@ -394,6 +403,6 @@
   "slug": "en-sus-propios-poemas-the-life-and-legacy-of",
   "created_at": "2026-05-10T17:25:24.776Z",
   "created_by": "karaculp",
-  "updated_at": "2026-05-10T17:42:16.585Z",
+  "updated_at": "2026-05-10T17:44:53.435Z",
   "updated_by": "karaculp"
 }
