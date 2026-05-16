@@ -1,0 +1,350 @@
+{
+  "content": [
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Later Life",
+          "textSize": "heading-two"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "uuid": "fb90ba4f-d3ac-41d1-864f-5e3d94b024f9",
+      "includes": [
+        "media",
+        "annotations",
+        "label",
+        "description"
+      ],
+      "type": "event",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "After the activism of her youth, Diana Montejano committed her life to writing and the teaching of it. She spent some time working for the San Antonio Express News, which allowed her to return to school to complete her undergraduate degree at the University of the Incarnate Word through the paper’s scholarship program. She majored in English Communication Arts, originally intending to continue her work for the paper, but when the ownership of Express News changed hands, she instead decided to further her education."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "The University of Texas at El Paso (UTEP) had opened up a master’s of fine arts program in bilingual writing, the first in the country. Montejano was accepted. She eventually graduated in 1997 after defending her master’s thesis entities “Paginas de Mi Vida,” where the majority of the poems in this project are from. Though she was in her 40s by the time she wrote them, they still focused mostly on her life as a child and young adult in San Antonio."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "After graduating, she spent the rest of her life as an educator, teaching at various community colleges and schools. She first worked in El Paso before returning to San Antonio, and worked at Palo Alto College for the remainder of her career. Montejano fiercely advocated for her students to build their writing skills and to defend their identities. She sought to prepare them for life. And of course, she never stopped writing."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "\n"
+        }
+      ]
+    },
+    {
+      "type": "grid",
+      "layout": [
+        2,
+        4
+      ],
+      "children": [
+        {
+          "type": "column",
+          "children": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "Las lecciónes",
+                  "textSize": "heading-three"
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "Diana L. Montejano",
+                  "textSize": "heading-four"
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "From “Paginas de mi Vida”",
+                  "textSize": "heading-four"
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": ""
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "Now I am five again, y Papa Telentoro sits in"
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "his rock garden, perched like a bird singing"
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "songs I do not remember.  He points his finger"
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "to las cuatro direcciónes, lands his dedo"
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "in front of an hormiguita.  blocks his path, and"
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "tells me, Be like this tiny thing keeping the"
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "order of creation.  Learn las historias which"
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "will keep you alive.  You are una jarra de barro"
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "holding the water to quench the thirst of"
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "quetzales and hormigas alike. Luego, he points"
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "to unas yerbas, Buenas para la salud, yerba buena,"
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "gordo lobo, eucalipto, estatiate, manzanilla, y"
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "otras with names I forget, but I giggle saludos"
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "to each one, Es la costumbre.  He promises,"
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "You will know these ways one day, as I look for"
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "mi hormiguita to come toiling con sus secretos."
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "But, I am unable to distinguish this ant from the"
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "others and search the moving brown flecks, hoping"
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "to see him carry el universo on his tiny back."
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "\n\n"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "column",
+          "children": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": ""
+                }
+              ]
+            },
+            {
+              "type": "image",
+              "url": "https://archive.org/download/761445958.763321/761445958.763321.jpg",
+              "caption": "Diana Montejano circa 1970s. Photo Courtesy of David Montejano.",
+              "children": [
+                {
+                  "text": ""
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": ""
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "\n\n"
+        }
+      ]
+    }
+  ],
+  "title": "Part V: Later Life",
+  "autogenerate": {
+    "enabled": false,
+    "type": "custom"
+  },
+  "slug": "part-v-later-life",
+  "created_at": "2026-05-16T18:14:23.427Z",
+  "created_by": "karaculp",
+  "updated_at": "2026-05-16T18:14:23.427Z",
+  "updated_by": "karaculp"
+}
