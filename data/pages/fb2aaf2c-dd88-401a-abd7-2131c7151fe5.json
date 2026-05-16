@@ -1,0 +1,221 @@
+{
+  "content": [
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "grid",
+      "layout": [
+        2,
+        4
+      ],
+      "children": [
+        {
+          "type": "column",
+          "children": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": ""
+                }
+              ]
+            },
+            {
+              "type": "image",
+              "url": "https://archive.org/download/761446462.077423/761446462.077423.jpg",
+              "caption": "Diana Montejano at the graduation ceremony for her Master of Fine Arts in Creative Writing at the University of Texas at El Paso on May 17, 1997. Photo courtesy of David Monetejano.",
+              "children": [
+                {
+                  "text": ""
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": ""
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "column",
+          "children": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": ""
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "Her Life and Legacy",
+                  "textSize": "heading-two"
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": ""
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "Diana Montejano was repeatedly told what she could and could not do by the circumstances she was born into. Her family had expectations of her, her schools placed restrictions upon her, and her fellow activists placed limitations on her. She defied all of them, over and over again."
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": ""
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "Her oral history demonstrates that not all radical activism comes from prominent leaders who are pasted in all of the history books. Often, activism comes from many tiny choices, such as the ones Diana made. She kept her Spanish. She got a higher education. She protested, volunteered, researched, and more. One of the most radical things she did was to choose to be a writer. Through her work, we can see a snapshot of her most intimate thoughts as she reminisces about her upbringing as a working class Chicana on San Antonio’s Westside. The value of recovering the stories of women of the Chicano Movement is evident in the life and legacy of Diana Montejano, but more work must be done in order to bring them to light."
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "\n\n"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Acknowledgements",
+          "textSize": "heading-two"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "This project was made possible thanks to a fellowship from AVAnnotate, a digital humanities platform. The oral history is sourced from the Civil Rights in Black and Brown Project, hosted at Texas Christian University. The interview was recorded by Steve Arionus and Vinicio Sinta, on June 29, 2016, in San Antonio, Texas."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "I have immense gratitude to David and Veronica Montejano, Diana’s brother and sister in-law, for opening up their home to me and sharing Diana’s personal photographs and documents with me. These documents contained a physical copy of her Master’s of Fine Arts thesis “Paginas de Mi Vida,” defended in 1997 at the University of Texas at El Paso’s College of Liberal Arts."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "I am actively working to recover more of Montejano’s work and story. I am grateful to her for her life and writing, and the work she did to preserve it. "
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "horizontal-separator",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "This project was completed by Kara Alexandra Culp on May 16, 2026. For comments and questions, you can reach her by email at karaculp@utexas.edu\n\n\n"
+        }
+      ]
+    }
+  ],
+  "title": "Conclusion",
+  "autogenerate": {
+    "enabled": false,
+    "type": "custom"
+  },
+  "slug": "conclusion",
+  "created_at": "2026-05-16T20:26:03.669Z",
+  "created_by": "karaculp",
+  "updated_at": "2026-05-16T20:26:03.669Z",
+  "updated_by": "karaculp"
+}
