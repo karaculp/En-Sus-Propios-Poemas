@@ -184,7 +184,11 @@
               "type": "paragraph",
               "children": [
                 {
-                  "text": "tells me, Be like this tiny thing keeping the"
+                  "text": "tells me, "
+                },
+                {
+                  "text": "Be like this tiny thing keeping the",
+                  "italic": true
                 }
               ]
             },
@@ -192,7 +196,8 @@
               "type": "paragraph",
               "children": [
                 {
-                  "text": "order of creation.  Learn las historias which"
+                  "text": "order of creation.  Learn las historias which",
+                  "italic": true
                 }
               ]
             },
@@ -200,7 +205,8 @@
               "type": "paragraph",
               "children": [
                 {
-                  "text": "will keep you alive.  You are una jarra de barro"
+                  "text": "will keep you alive.  You are una jarra de barro",
+                  "italic": true
                 }
               ]
             },
@@ -208,7 +214,8 @@
               "type": "paragraph",
               "children": [
                 {
-                  "text": "holding the water to quench the thirst of"
+                  "text": "holding the water to quench the thirst of",
+                  "italic": true
                 }
               ]
             },
@@ -216,7 +223,11 @@
               "type": "paragraph",
               "children": [
                 {
-                  "text": "quetzales and hormigas alike. Luego, he points"
+                  "text": "quetzales and hormigas alike",
+                  "italic": true
+                },
+                {
+                  "text": ". Luego, he points"
                 }
               ]
             },
@@ -224,7 +235,11 @@
               "type": "paragraph",
               "children": [
                 {
-                  "text": "to unas yerbas, Buenas para la salud, yerba buena,"
+                  "text": "to unas yerbas, "
+                },
+                {
+                  "text": "Buenas para la salud, yerba buena,",
+                  "italic": true
                 }
               ]
             },
@@ -232,7 +247,11 @@
               "type": "paragraph",
               "children": [
                 {
-                  "text": "gordo lobo, eucalipto, estatiate, manzanilla, y"
+                  "text": "gordo lobo, eucalipto, estatiate, manzanilla",
+                  "italic": true
+                },
+                {
+                  "text": ", y"
                 }
               ]
             },
@@ -248,7 +267,14 @@
               "type": "paragraph",
               "children": [
                 {
-                  "text": "to each one, Es la costumbre.  He promises,"
+                  "text": "to each one, "
+                },
+                {
+                  "text": "Es la costumbre.",
+                  "italic": true
+                },
+                {
+                  "text": "  He promises,"
                 }
               ]
             },
@@ -256,7 +282,11 @@
               "type": "paragraph",
               "children": [
                 {
-                  "text": "You will know these ways one day, as I look for"
+                  "text": "You will know these ways one day,",
+                  "italic": true
+                },
+                {
+                  "text": " as I look for"
                 }
               ]
             },
@@ -360,6 +390,6 @@
   "slug": "part-v-later-life",
   "created_at": "2026-05-16T18:14:23.427Z",
   "created_by": "karaculp",
-  "updated_at": "2026-05-16T18:27:49.252Z",
+  "updated_at": "2026-05-16T20:41:21.208Z",
   "updated_by": "karaculp"
 }
