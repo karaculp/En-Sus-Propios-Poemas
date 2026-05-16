@@ -1,5 +1,230 @@
 {
-  "annotations": [],
+  "annotations": [
+    {
+      "start_time": 0,
+      "end_time": 95,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "The Berets had this – they were primarily all former Vietnam veterans coming from the war. And coming back and realizing that things still aren't- not only were they suffering from post traumatic stress, some of them came back as drug addicts, alcoholics. You know, and then to come and find all this strife, you know? And they're coming home and they're... all with pretty much they same mentality, you know- risking their life for the country when they're not even treated like citizens, you know equal citizens. “And so now okay, now you're going back to your home. And so, go and take your place.” But, hey who do they recruit from? And I think you know this, it's all over. Go to Lenier, go to Edgewood, go to all these predominantly chicano schools, you know. Who's there? The Marines. You know, because everybody wants to be a- my younger brother was a Marine. My big brother, my big brother was a draft dodger, “conscientious objector,” that's the technical term. My younger brother was a Marine. You know, go figure, you know. Stuff that divided the barrio, you know. I write about that. I wrote a story about that."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "The Brown Berets",
+          "category": "Political Organizations"
+        },
+        {
+          "tag": "Discrimination",
+          "category": "Discrimination"
+        },
+        {
+          "tag": "Family Life",
+          "category": "Personal Life"
+        },
+        {
+          "tag": "Writing",
+          "category": "Reading and Writing"
+        }
+      ],
+      "uuid": "6e0535f7-3c7d-49f8-96d8-fac6ea895a15"
+    },
+    {
+      "start_time": 95,
+      "end_time": 112,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Well, let's- \"Wrap it up.\" Yeah, due to time contraints. I know that you've- you eventually got your Masters degree. Uhm, can you tell me- And I know that you taught at Palo Alto."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Question About Teaching"
+        },
+        {
+          "tag": "Palo Alto College",
+          "category": "Schools and Education"
+        }
+      ],
+      "uuid": "96135661-2c78-4a9c-b8c4-9addabc76446"
+    },
+    {
+      "start_time": 112,
+      "end_time": 113,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "I still teach at Palo Alto."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Teaching",
+          "category": "Career"
+        },
+        {
+          "tag": "Palo Alto College",
+          "category": "Schools and Education"
+        }
+      ],
+      "uuid": "ac066b05-ffb7-4c87-8a34-eee50a84f43a"
+    },
+    {
+      "start_time": 113,
+      "end_time": 143,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Can you tell me what it- I don't know- are there any thoughts that you want to leave us with? You've talked a lot about the activism of the 60s and 70s, and it seems, that education has been, I know it was one of the central focus points for many Chicano activists, including the Brown Berets. And you yourself are now an educator. Would you like to leave us with any thoughts about like, the power of education, what it means-"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Question About Teaching"
+        }
+      ],
+      "uuid": "34b35faa-7abd-43bb-b054-a01a02d5474f"
+    },
+    {
+      "start_time": 143,
+      "end_time": 211,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "I went into the movimento gung-ho. I ended up getting kicked out of Our Lady of the Lake, and that's another story altogether. I did not return to education until I was 36 years old. And that was because my company at that time- I worked for the San Antonio Express News- under Rupert Murdoch mind you- who was giving scholarships to their employees to go back to school. And it was some deal that they did, I am sure it was for income tax purposes but that's okay, with Incarnate Word. And so, of course I said “Oh, I'll take advantage of that.” And I had to go back to Our Lady of the Lake because I was on scholastic probation. Anyway, I worked myself out of that and I graduated from Incarnate Word when it was still a college. Thanks to the Express News. It took me five and a half years but I did it. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Our Lady of the Lake University",
+          "category": "Schools and Education"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "University of the Incarnete Word"
+        },
+        {
+          "tag": "San Antonio Express News",
+          "category": "Career"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Rupert Murdoch"
+        }
+      ],
+      "uuid": "f1383ba7-42de-4b64-ad3c-610d5c3f80db"
+    },
+    {
+      "start_time": 211,
+      "end_time": 270,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Right then, Murdoch sells the paper. Because they were going to groom me- that is why I ended up majoring in English Communication Arts because they were gromming me to move me. Mr. Kilpatrick wanted me in the editorial office, you know, I don't even know, I'll do that! But they sold the paper, and so my bosses sat down and said “You know, you got a job here as long as you want, but we can't do the lateral move because they're bringing all their people.” So I took a year to think about it and that is when they opened up the first bilingual writing program at UTEP. And I applied and got accepted. And I was one of 15 students accepted. Only 8 of us graduated, which was a 48- completed the 48 hour program."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "University of Texas at El Paso",
+          "category": "Schools and Education"
+        },
+        {
+          "tag": "San Antonio Express News",
+          "category": "Career"
+        },
+        {
+          "tag": "Writing",
+          "category": "Reading and Writing"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Rupert Murdoch"
+        }
+      ],
+      "uuid": "ff611412-fcdc-4f11-b3fe-cc9e7fbe80fa"
+    },
+    {
+      "start_time": 270,
+      "end_time": 334,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "I write a lot about my experiences. You know, you know, on Guadalupe Street, and the marchas, and the heritage, and you know my parents, and the whole thing. What do I say? Education has made a difference. And I tell all of my students. I have taught at a high school, at a regular full-time high school for 8 years. And before that I was at the middle school for 2 years, and then I've been at the college since I moved back to San Antonio. So... I would say, “Sigan de adelante.\" You know, don't give up. You know, and I always tell my students this: \"Every time something good is gonna happen, be ready for the challenges. Because that's when they test your character.\" You know, what happens? You know, some obstacle will come. You know, and I think it is like that test by fire, type of thing."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Writing",
+          "category": "Reading and Writing"
+        },
+        {
+          "tag": "Teaching",
+          "category": "Career"
+        },
+        {
+          "tag": "Family Life",
+          "category": "Personal Life"
+        }
+      ],
+      "uuid": "f80f6237-1393-466a-83ed-18589df6db0a"
+    },
+    {
+      "start_time": 160,
+      "end_time": 181,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Rupert Murdoch is a former newspaper magnate. He owned media companies across various countries, including Austalia, New Zealand, the United Kingdom, and the United States."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Political Context",
+          "category": "Context"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Rupert Murdoch"
+        }
+      ],
+      "uuid": "f143d302-2f62-40c7-888a-c0555fecf949"
+    }
+  ],
   "set": "Default",
   "event_id": "fb90ba4f-d3ac-41d1-864f-5e3d94b024f9",
   "source_id": "97dfa2ba-d313-422a-8c82-8c6d4564e21c"
