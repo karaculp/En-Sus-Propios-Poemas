@@ -9,6 +9,30 @@
       ]
     },
     {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "After the activism of her youth, Diana Montejano committed her life to writing and the teaching of it. She spent some time working for the San Antonio Express News, which allowed her to return to school to complete her undergraduate degree at the University of the Incarnate Word through the paper’s scholarship program. She majored in English Communication Arts, originally intending to continue her work for the paper, but when the ownership of Express News changed hands, she instead decided to further her education."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
       "uuid": "fb90ba4f-d3ac-41d1-864f-5e3d94b024f9",
       "includes": [
         "media",
@@ -28,14 +52,6 @@
       "children": [
         {
           "text": ""
-        }
-      ]
-    },
-    {
-      "type": "paragraph",
-      "children": [
-        {
-          "text": "After the activism of her youth, Diana Montejano committed her life to writing and the teaching of it. She spent some time working for the San Antonio Express News, which allowed her to return to school to complete her undergraduate degree at the University of the Incarnate Word through the paper’s scholarship program. She majored in English Communication Arts, originally intending to continue her work for the paper, but when the ownership of Express News changed hands, she instead decided to further her education."
         }
       ]
     },
@@ -344,6 +360,6 @@
   "slug": "part-v-later-life",
   "created_at": "2026-05-16T18:14:23.427Z",
   "created_by": "karaculp",
-  "updated_at": "2026-05-16T18:20:18.461Z",
+  "updated_at": "2026-05-16T18:27:49.252Z",
   "updated_by": "karaculp"
 }
