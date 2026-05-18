@@ -1,13 +1,44 @@
 {
-  "content": [],
+  "content": [
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "event",
+      "uuid": "72989a11-c7b7-41c3-8659-321d8acacd44",
+      "includes": [
+        "media",
+        "annotations",
+        "description"
+      ],
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    }
+  ],
   "created_at": "2026-05-16T21:35:35.128Z",
   "created_by": "karaculp",
   "title": "2. Childhood Neighborhood and Childhood Memories",
   "slug": "2-childhood-neighborhood-and-childhood-memor",
-  "updated_at": "2026-05-16T21:35:35.128Z",
+  "updated_at": "2026-05-18T01:22:21.763Z",
   "updated_by": "karaculp",
   "autogenerate": {
-    "enabled": true,
+    "enabled": false,
     "type": "event",
     "type_id": "72989a11-c7b7-41c3-8659-321d8acacd44"
   }
