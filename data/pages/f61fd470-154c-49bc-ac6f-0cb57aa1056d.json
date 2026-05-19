@@ -1,0 +1,347 @@
+{
+  "content": [
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "This project is made on AVAnnotate, a digital humanities platform. AVAnnotate allows you to make “notations” on audio or visual materials. This means that all of the oral history clips of Diana Montejano are notated with both the transcript as well as additional context for the topics she discusses. All for the benefit of the community members, students, and scholars who use this project!",
+          "textSize": "heading-three"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "image",
+      "url": "https://archive.org/download/screenshot-2026-05-18-at-10.11.47-pm/Screenshot%202026-05-18%20at%2010.11.47%E2%80%AFPM.png",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "horizontal-separator",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "These notations are “tagged” by topic, meaning that whenever she discusses a certain topic it is paired with a tag of the subject she talks about. Tags include, for example, “Family Life,” “Streets of San Antonio,” and “Activism.” They are further organized into tag groups for clarity.",
+          "textSize": "heading-four"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "image",
+      "url": "https://archive.org/download/screenshot-2026-05-18-at-10.12.11-pm/Screenshot%202026-05-18%20at%2010.12.11%E2%80%AFPM.png",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "horizontal-separator",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "You are then able to use these tags to filter for certain topics that Montejano discusses in each video. For example, let’s say you want to go straight to the parts of the video where she discusses “Urban Renewal” and “Activism.” If you select these tags, the relevant notations will appear on the side. Clicking on them will take you straight to that part of the video.",
+          "textSize": "heading-four"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "image",
+      "url": "https://archive.org/download/screenshot-2026-05-18-at-10.20.20-pm/Screenshot%202026-05-18%20at%2010.20.20%E2%80%AFPM.png",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "horizontal-separator",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "If you want to search all videos at once for certain topics, head on over to the “Index” page by navigating to the three horizontal bars on the left! ",
+          "textSize": "heading-four"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "image",
+      "url": "https://archive.org/download/screenshot-2026-05-18-at-10.22.31-pm/Screenshot%202026-05-18%20at%2010.22.31%E2%80%AFPM.png",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "horizontal-separator",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Clicking on any one of the tags will show you in which videos that topic is discussed and how often. You can then click on them to see those annotations!",
+          "textSize": "heading-four"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "textSize": "heading-four",
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "textSize": "heading-four",
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "image",
+      "url": "https://archive.org/download/screenshot-2026-05-18-at-10.23.06-pm/Screenshot%202026-05-18%20at%2010.23.06%E2%80%AFPM.png",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "horizontal-separator",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Now, on to the rest of Montejano’s life. Happy scrolling!",
+          "textSize": "heading-three"
+        }
+      ]
+    }
+  ],
+  "title": "A Note Moving Forward: What are Annotations?",
+  "autogenerate": {
+    "enabled": false,
+    "type": "custom"
+  },
+  "slug": "a-note-moving-forward-what-are-annotations",
+  "created_at": "2026-05-19T03:39:03.799Z",
+  "created_by": "karaculp",
+  "updated_at": "2026-05-19T03:39:03.799Z",
+  "updated_by": "karaculp"
+}
